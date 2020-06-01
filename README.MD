@@ -11,6 +11,10 @@
 這次我們數位見識那些都不太熟 所以恩..
 
 這次我覺的很多題目都是考運氣 有些題目簡單到我懷疑
+
+
+![](https://raw.githubusercontent.com/0xdeciverAngel/cyberthrones.zyxel-ctf/master/rank.png)
+
 # comp1
 有點智障 給你一排server 
 
@@ -46,6 +50,9 @@ CVE-1999-0532
 
 去google 就有了
 ## pack2
+要找被駭客下載回去的資料是啥
+
+![](https://raw.githubusercontent.com/0xdeciverAngel/cyberthrones.zyxel-ctf/master/pack2/pack2.png)
 
 ## pack3
 這題是要找 駭客是用啥名子登入被害人電腦
